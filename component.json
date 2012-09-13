@@ -2,7 +2,5 @@
   "name": "beemuse",
   "version": "0.1.0",
   "main": ["./app/styles/beemuse.css", "./app/styles/_beemuse.scss", "./app/styles/beemuse/_3dflips.scss", "./app/styles/beemuse/_paper.scss", "./app/styles/beemuse/_stitches.scss"],
-  "dependencies": {
-    "compass": "~0.12.2"
-  }
+  "dependencies": {}
 }
