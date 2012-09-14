@@ -1,6 +1,6 @@
 {
   "name": "beemuse",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "main": ["beemuse.css", "_beemuse.scss", "beemuse/_3dflips.scss", "beemuse/_paper.scss", "beemuse/_stitches.scss"],
   "dependencies": {}
 }
