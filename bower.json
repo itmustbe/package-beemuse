@@ -1,6 +1,19 @@
 {
   "name": "beemuse",
-  "version": "0.2.1",
-  "main": ["beemuse.css", "_beemuse.scss", "beemuse/_3dflips.scss", "beemuse/_paper.scss", "beemuse/_stitches.scss", "beemuse/_ribbons.scss"],
-  "dependencies": {}
+  "version": "0.3.0",
+  "authors": [
+    "Elise <elise@itmustbe.com>"
+  ],
+  "description": "bundle of sweet css effects",
+  "main": "dist/beemuse.css",
+  "keywords": [
+    "scss",
+    "css",
+    "effects"
+  ],
+  "license": "MIT",
+  "homepage": "http://beemuse.com",
+  "ignore": [
+    "**/.*"
+  ]
 }
